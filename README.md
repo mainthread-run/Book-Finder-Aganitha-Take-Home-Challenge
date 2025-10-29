@@ -1,7 +1,8 @@
 # 📚 Book Finder — Aganitha Take-Home Challenge
 # https://jwrlys-5173.csb.app/
-👩‍💻 Candidate: Pallavi Bhasme
-🆔 Candidate ID: Naukri1025
+👩‍💻 Candidate: Pallavi Bhasme   contact: 9637841265
+
+🆔 Candidate ID: (https://www.naukri.com/mnjuser/profile?id=&altresid)
 💼 Role: Full Stack Developer (Take-Home Challenge)
 🏢 Submitted to: Aganitha Cognitive Solutions
 
