@@ -1,6 +1,6 @@
-📚 Book Finder — Aganitha Take-Home Challenge
+# 📚 Book Finder — Aganitha Take-Home Challenge
 
-👩‍💻 Candidate: Pallavi
+👩‍💻 Candidate: Pallavi Bhasme
 🆔 Candidate ID: Naukri1025
 💼 Role: Full Stack Developer (Take-Home Challenge)
 🏢 Submitted to: Aganitha Cognitive Solutions
@@ -113,7 +113,7 @@ npm or yarn
 
 Installation Steps
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/mainthread-run/Book-Finder-Aganitha-Take-Home-Challenge.git)>
 cd book-finder
 
 # 2. Install dependencies
@@ -225,8 +225,8 @@ Crafted final README & submission assets
 
 👩‍💻 Candidate: Pallavi
 🆔 Candidate ID: Naukri1025
-📅 Submission Date: [Insert Date]
-📧 Email: [Your Email Here]
+📅 Submission Date: [29/10/2025]
+📧 Email: pallavibhsme13@gmail.com
 
 Submission Checklist
 
